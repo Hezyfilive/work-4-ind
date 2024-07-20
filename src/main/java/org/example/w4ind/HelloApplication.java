@@ -123,7 +123,7 @@ public class HelloApplication extends Application {
             Alert aboutAlert = new Alert(Alert.AlertType.INFORMATION);
             aboutAlert.setTitle("About");
             aboutAlert.setHeaderText("Lab Data Processor");
-            aboutAlert.setContentText("Author: Your Name\nCourse: Java Programming Basics");
+            aboutAlert.setContentText("Author: \nCourse: Java Programming");
             aboutAlert.showAndWait();
         });
 
